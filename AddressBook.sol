@@ -1,5 +1,5 @@
-// SPDX-License-Identifier: MIT use this instead ( // SPDX-License-Identifier: GPL-3.0 )
-pragma solidity ^0.8.8;
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
 
 import "@openzeppelin/contracts/access/Ownable.sol";
 
